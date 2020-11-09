@@ -1,0 +1,1 @@
+# sls-go-aws-lambdas
